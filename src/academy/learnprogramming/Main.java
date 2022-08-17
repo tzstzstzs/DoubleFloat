@@ -8,5 +8,7 @@ public class Main {
         double myKgValue = myPoundValue * 0.45359237;
 
         System.out.println(myKgValue);
+
+        System.out.println(myPoundValue);
     }
 }
